@@ -38,6 +38,7 @@ Python • TensorFlow/Keras • NumPy • Pandas • Streamlit
 
 ![Handwritten Digit Recognition - Output 3](Screenshots/img3.png)
 
+
 ## Project Structure
 
 ```text
@@ -68,7 +69,7 @@ Handwritten-Digit-Recognition/
 │
 ├── README.md
 └── requirements.txt
-
+```
 ## Applications
 
 - **Banking & Cheque Processing** – Recognizing handwritten numbers in cheques and financial forms.
@@ -77,3 +78,4 @@ Handwritten-Digit-Recognition/
 - **Document Processing** – Extracting handwritten numbers from scanned documents.
 - **Data Entry Automation** – Reducing manual effort when converting handwritten numerical information into machine-readable data.
 - **Educational Tools** – Supporting automated recognition of handwritten numerical answers.
+

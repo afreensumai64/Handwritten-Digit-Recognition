@@ -15,15 +15,6 @@ A deep learning project that recognizes handwritten digits (0–9) using a Convo
 
 Python • TensorFlow/Keras • NumPy • Pandas • Streamlit
 
-## Applications
-
-- Banking and cheque processing
-- Handwritten form digitization
-- Postal and PIN code recognition
-- Numerical data entry automation
-- Document processing
-- Educational applications
-
 ## Demo
 
 ### Application Output 1
@@ -37,6 +28,49 @@ Python • TensorFlow/Keras • NumPy • Pandas • Streamlit
 ### Application Output 3
 
 ![Handwritten Digit Recognition - Output 3](Screenshots/img3.png)
+
+## How to Run
+
+### 1. Clone the Repository
+
+```bash
+git clone YOUR_REPOSITORY_URL
+cd Handwritten-Digit-Recognition
+```
+
+### 2. Create a Virtual Environment
+
+```bash
+python -m venv venv
+```
+
+### 3. Activate the Virtual Environment
+
+**Windows:**
+
+```bash
+venv\Scripts\activate
+```
+
+**macOS/Linux:**
+
+```bash
+source venv/bin/activate
+```
+
+### 4. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 5. Run the Streamlit Application
+
+```bash
+streamlit run app/app.py
+```
+
+The application will open in your browser.
 
 
 ## Project Structure

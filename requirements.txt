@@ -1,0 +1,8 @@
+tensorflow==2.10.1
+tensorflow-datasets
+numpy==1.23.5
+matplotlib
+scikit-learn
+pillow
+streamlit==1.18.1
+protobuf==3.19.6

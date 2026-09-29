@@ -68,3 +68,12 @@ Handwritten-Digit-Recognition/
 │
 ├── README.md
 └── requirements.txt
+
+## Applications
+
+- **Banking & Cheque Processing** – Recognizing handwritten numbers in cheques and financial forms.
+- **Form Digitization** – Converting handwritten numerical entries into digital data.
+- **Postal Processing** – Recognizing handwritten PIN/ZIP codes and numerical addresses.
+- **Document Processing** – Extracting handwritten numbers from scanned documents.
+- **Data Entry Automation** – Reducing manual effort when converting handwritten numerical information into machine-readable data.
+- **Educational Tools** – Supporting automated recognition of handwritten numerical answers.
